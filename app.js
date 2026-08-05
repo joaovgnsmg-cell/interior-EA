@@ -1,31 +1,31 @@
 const jogadores = [
   {
     nome: "Ulisses",
-    foto: "https://i.pravatar.cc/100?img=11",
+    foto: "imagens/uli.png.jpg",
     gols: 0,
     assistencias: 0
   },
   {
     nome: "Pedro",
-    foto: "https://i.pravatar.cc/100?img=12",
+    foto: "imagens/pedrox.png.jpg",
     gols: 0,
     assistencias: 0
   },
   {
     nome: "Paulo",
-    foto: "https://i.pravatar.cc/100?img=13",
+    foto: "imagens/pretox.png.jpg",
     gols: 0,
     assistencias: 0
   },
   {
     nome: "Asafe",
-    foto: "https://i.pravatar.cc/100?img=14",
+    foto: "imagens/asafe.png.jpg",
     gols: 0,
     assistencias: 0
   },
   {
     nome: "Alfredo",
-    foto: "https://i.pravatar.cc/100?img=15",
+    foto: "imagens/af.jpg",
     gols: 0,
     assistencias: 0
   },
@@ -37,8 +37,8 @@ const jogadores = [
   },
   {
     nome: "João Gomes",
-    foto: "https://i.pravatar.cc/100?img=17",
-    gols: 0,
+    foto: "imagens/gomex.png.jpg",
+    gols: 1,
     assistencias: 0
   },
   {
